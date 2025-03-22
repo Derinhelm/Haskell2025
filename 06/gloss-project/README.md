@@ -1,5 +1,7 @@
 # gloss-project
 Fractal Sakura Tree in Haskell with Gloss
+
+By Maria Eliseeva. 
 =
 
 Example of using Gloss library to draw 2d graphics in Haskell. 
